@@ -1,0 +1,1 @@
+I am a computer science student at the University of Washington, Seattle, who volunteers for various tech-based nonprofits. I aim to use my knowledge of math, computer science, and AI ethics to create services that positively impact the community.
