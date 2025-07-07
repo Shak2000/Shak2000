@@ -54,6 +54,7 @@ I wrote code that gathered and uploaded videos, transcripts, voting records, and
 
 ### Miscellaneous
 <p align="left">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
 </p>
 
