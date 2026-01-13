@@ -1,10 +1,13 @@
 # Shak Ragoler
 Welcome to my personal GitHub portfolio!
 
-I am a computer science student at the University of Washington, Seattle, who has volunteered for various tech-based nonprofits like [ShelterApp](https://github.com/ShelterApp) (currently) and the [Council Data Project](https://github.com/CouncilDataProject). I aim to use my knowledge of math, computer science, AI, and ML to create services that positively impact the community.
+I am a computer science student at the University of Washington, Seattle, working as a software engineer intern at [Pack Ventures](https://www.packvc.com/). I have also volunteered for various tech-based nonprofits like [ShelterApp](https://github.com/ShelterApp) (currently) and the [Council Data Project](https://github.com/CouncilDataProject). I aim to use my knowledge of math, computer science, AI, and ML to develop technological innovations that positively impact the community.
 
 ## Experience
-### Shelter App — Independent Contractor (December 2020 – present)
+### Pack Ventures — Software Engineer Intern (November 2025 – present)
+I am building an in-house CRM for tracking deals and contacts using Azure Web Apps and Functions, and a PostgreSQL database, Python backend, FastAPI, and HTML/JS/CSS frontend. I am also working on the integration of the CRM with Microsoft Teams using the Microsoft Graph API.
+
+### Shelter App — Software Developer and Data Architect (December 2020 – present)
 I implement and deploy Python scrapers that collect data from public sources, format/analyze the data using Pandas/NumPy, and store the result on a MongoDB database for further analysis. I also develop and deploy front-end JS interactives and CSS visuals.
 
 ### Council Data Project — Backend Developer (June 2021 – September 2023)
@@ -53,10 +56,24 @@ I built Python/Pandas/NumPy data pipelines to scrape, organize, and analyze data
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="Vim" width="50" height="50"/>
 </p>
 
-### Miscellaneous
+
+### Cloud Computing Services
 <p align="left">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="50" height="50"/>
+</p>
+
+### Database Systems and Services
+<p align="left">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" alt="JSON" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="Azure SQL Database" width="50" height="50"/>
+</p>
+
+### Miscellaneous
+<p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
 </p>
 
