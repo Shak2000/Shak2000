@@ -4,7 +4,7 @@ Welcome to my personal GitHub portfolio!
 I am a computer science student at the University of Washington, Seattle, working as a software engineer intern at [Pack Ventures](https://www.packvc.com/). I have also volunteered for various tech-based nonprofits like [ShelterApp](https://github.com/ShelterApp) (currently) and the [Council Data Project](https://github.com/CouncilDataProject). I aim to use my knowledge of math, computer science, AI, and ML to develop technological innovations that positively impact the community.
 
 ## Experience
-### Pack Ventures — Software Engineer Intern (November 2025 – present)
+### Pack Ventures — Software Engineer Intern (October 2025 – present)
 I am building an in-house CRM for tracking deals and contacts using Azure Web Apps and Functions, and a PostgreSQL database, Python backend, FastAPI, and HTML/JS/CSS frontend. I am also working on the integration of the CRM with Microsoft Teams using the Microsoft Graph API.
 
 ### Shelter App — Software Developer and Data Architect (December 2020 – present)
