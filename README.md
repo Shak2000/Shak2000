@@ -5,7 +5,7 @@ I am a computer science student at the University of Washington, Seattle, workin
 
 ## Experience
 ### Pack Ventures — Software Engineer Intern (October 2025 – present)
-I am building an in-house CRM for tracking deals and contacts using Azure Web Apps and Functions, and a PostgreSQL database, Python backend, FastAPI, and HTML/JS/CSS frontend. I am also working on the integration of the CRM with Microsoft Teams using the Microsoft Graph API.
+I am building [an in-house CRM](https://crm.packvc.com/) for tracking deals and contacts. [I have used](https://crm.packvc.com/about) Azure Web Apps and Functions, a PostgreSQL database, a Python backend, a FastAPI, and a HTML/JS/CSS frontend to develop the CRM's features. I am also working on the integration of the CRM with Microsoft Teams using the Microsoft Graph API.
 
 ### Shelter App — Software Developer and Data Architect (December 2020 – present)
 I implement and deploy Python scrapers that collect data from public sources, format/analyze the data using Pandas/NumPy, and store the result on a MongoDB database for further analysis. I also develop and deploy front-end JS interactives and CSS visuals.
