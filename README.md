@@ -1,16 +1,20 @@
 # Shak Ragoler
 Welcome to my personal GitHub portfolio!
 
-I am a computer science student at the University of Washington, Seattle, working as a software engineer intern at [Pack Ventures](https://www.packvc.com/). I have also volunteered for various tech-based nonprofits like [ShelterApp](https://github.com/ShelterApp) (currently) and the [Council Data Project](https://github.com/CouncilDataProject). I aim to use my knowledge of math, computer science, AI, and ML to develop technological innovations that positively impact the community.
+I am a computer science student at the University of Washington, Seattle, working as a full-stack engineer at [Nova6](https://www.packvc.com/).
 
 ## Experience
-### Pack Ventures — Software Engineer Intern (October 2025 – present)
-I am building [an in-house CRM](https://crm.packvc.com/) for tracking deals and contacts. [I have used](https://crm.packvc.com/about) Azure Web Apps and Functions, a PostgreSQL database, a Python backend, a FastAPI, and a HTML/JS/CSS frontend to develop the CRM's features. I am also working on the integration of the CRM with Microsoft Teams using the Microsoft Graph API.
+### [Nova6](https://nova6.ai/) — Full-Stack Engineer (July 2026 – present)
 
-### Shelter App — Software Developer and Data Architect (December 2020 – present)
+I develop the backend and frontend of the company's platform for stores managing AR try-ons and POS devices. I have implemented reports generation, web session management, HR management, and profile and brand management.
+
+### [Shelter App](https://www.shelterapp.org/) — Software Developer and Data Architect (December 2020 – present)
 I implement and deploy Python scrapers that collect data from public sources, format/analyze the data using Pandas/NumPy, and store the result on a MongoDB database for further analysis. I also develop and deploy front-end JS interactives and CSS visuals.
 
-### Council Data Project — Backend Developer (June 2021 – September 2023)
+### [Pack Ventures](https://crm.packvc.com/) — Software Engineer Intern (October 2025 – June 2026)
+I built an in-house CRM for tracking deals and contacts. [I used](https://crm.packvc.com/about) Azure Web Apps and Functions, a PostgreSQL database, a Python backend, a FastAPI, and a HTML/JS/CSS frontend to develop the CRM's features. I also integrated the CRM with Microsoft Teams using the Microsoft Graph API.
+
+### [Council Data Project](https://councildataproject.org/) — Backend Developer (June 2021 – September 2023)
 I built Python/Pandas/NumPy data pipelines to scrape, organize, and analyze data from municipal sources.
 
 ## Skills and Languages
