@@ -1,7 +1,7 @@
 # Shak Ragoler
 Welcome to my personal GitHub portfolio!
 
-I am a computer science student at the University of Washington, Seattle, working as a full-stack engineer at [Nova6](https://www.packvc.com/).
+I am a computer science student at the University of Washington, Seattle, working as a full-stack engineer at Nova6.
 
 ## Experience
 ### [Nova6](https://nova6.ai/) — Full-Stack Engineer (July 2026 – present)
