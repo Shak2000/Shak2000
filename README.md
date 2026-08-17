@@ -1,7 +1,7 @@
 # Shak Ragoler
 Welcome to my personal GitHub portfolio!
 
-I am a computer science student at the University of Washington, Seattle. I am currently working as a full-stack engineer at Nova6 and volunteering as a software developer and data architect for Shelter App.
+I am a computer science student at the University of Washington, Seattle. I am currently working as a full-stack engineer at Nova6 and volunteering as a software developer and data architect at Shelter App.
 
 ## Experience
 ### [Nova6](https://nova6.ai/) — Full-Stack Engineer (July 2026 – present)
